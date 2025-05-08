@@ -36,7 +36,7 @@
       <a href="https://www.tiktok.com/@nasa">
 <p>🎵 TikTok:</p>
       </a>
-<a href="https://www.nasa.gov/">
+<a href="https://www.nasa.gov/" target="blank">
 <img src="download (2).jpg">
 </a>
 <a href="https://www.nasa.gov/history/symbols-of-nasa/">
